@@ -11,8 +11,8 @@
   <a href="https://linkedin.com/in/khang-le-643b5a26b">
     <img src="https://img.shields.io/badge/LinkedIn-Khang%20Le-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:kpl5625@psu.edu">
-    <img src="https://img.shields.io/badge/Email-kpl5625%40psu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:minhkhangvmc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-minhkhangvmc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
